@@ -1,0 +1,14 @@
+C:\Users\Kara Ádám\Documents\GTASERVER\gtaserver.core\publish\windows-Release\Plugins\Essentials\Essentials\bin\Debug\net5.0\Essentials.deps.json
+C:\Users\Kara Ádám\Documents\GTASERVER\gtaserver.core\publish\windows-Release\Plugins\Essentials\Essentials\bin\Debug\net5.0\Essentials.dll
+C:\Users\Kara Ádám\Documents\GTASERVER\gtaserver.core\publish\windows-Release\Plugins\Essentials\Essentials\bin\Debug\net5.0\Essentials.pdb
+C:\Users\Kara Ádám\Documents\GTASERVER\gtaserver.core\publish\windows-Release\Plugins\Essentials\Essentials\bin\Debug\net5.0\gtaserver.core.dll
+C:\Users\Kara Ádám\Documents\GTASERVER\gtaserver.core\publish\windows-Release\Plugins\Essentials\Essentials\obj\Debug\net5.0\Essentials.csproj.AssemblyReference.cache
+C:\Users\Kara Ádám\Documents\GTASERVER\gtaserver.core\publish\windows-Release\Plugins\Essentials\Essentials\obj\Debug\net5.0\Essentials.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Kara Ádám\Documents\GTASERVER\gtaserver.core\publish\windows-Release\Plugins\Essentials\Essentials\obj\Debug\net5.0\Essentials.AssemblyInfoInputs.cache
+C:\Users\Kara Ádám\Documents\GTASERVER\gtaserver.core\publish\windows-Release\Plugins\Essentials\Essentials\obj\Debug\net5.0\Essentials.AssemblyInfo.cs
+C:\Users\Kara Ádám\Documents\GTASERVER\gtaserver.core\publish\windows-Release\Plugins\Essentials\Essentials\obj\Debug\net5.0\Essentials.csproj.CoreCompileInputs.cache
+C:\Users\Kara Ádám\Documents\GTASERVER\gtaserver.core\publish\windows-Release\Plugins\Essentials\Essentials\obj\Debug\net5.0\Essentials.csproj.CopyComplete
+C:\Users\Kara Ádám\Documents\GTASERVER\gtaserver.core\publish\windows-Release\Plugins\Essentials\Essentials\obj\Debug\net5.0\Essentials.dll
+C:\Users\Kara Ádám\Documents\GTASERVER\gtaserver.core\publish\windows-Release\Plugins\Essentials\Essentials\obj\Debug\net5.0\refint\Essentials.dll
+C:\Users\Kara Ádám\Documents\GTASERVER\gtaserver.core\publish\windows-Release\Plugins\Essentials\Essentials\obj\Debug\net5.0\Essentials.pdb
+C:\Users\Kara Ádám\Documents\GTASERVER\gtaserver.core\publish\windows-Release\Plugins\Essentials\Essentials\obj\Debug\net5.0\ref\Essentials.dll
